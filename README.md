@@ -63,15 +63,15 @@ We deployed model on Streamlit, in such a way that it can detect a distracted dr
 Streamlit app- https://distracteddriverdetection.streamlit.app/
 
 ## RESULTS
-GoogLeNet Inception with 3 inception modules was the best performing with an accuracy of 35%
+GoogLeNet Inception with 3 inception modules was the best performing with an accuracy of 35%.
 
 ## Contributors
-Leonard Gachimu
-Rowlandson Kariuki
-Onesphoro Kibunja
-Francis Njenga
-Mourine Mwangi
-Victor Mawira
+Leonard Gachimu<br>
+Rowlandson Kariuki<br>
+Onesphoro Kibunja<br>
+Francis Njenga<br>
+Mourine Mwangi<br>
+Victor Mawira<br>
 Khadija Omar
 
 
