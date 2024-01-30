@@ -11,7 +11,7 @@ ii.) Model Development: Utilize computer vision techniques to build a deep learn
 iii.) Real-Time Implementation: Deploy a feedback system that alerts the driver when they’re being distracted by integrating auditory alerts or haptic feedback, enhancing the immediacy and effectiveness of distraction warnings.
 
 ### Success/Performance Criteria:
-i.) Accuracy: Measure the model's ability to correctly identify instances of driver distraction against a labeled dataset. e’re aiming for a minimum test accuracy of 0.9.<br>
+i.) Accuracy: Measure the model's ability to correctly identify instances of driver distraction against a labeled dataset. We’re aiming for a minimum test accuracy of 0.9.<br>
 ii.) Real-Time Performance: Assess the system's efficiency in processing and detecting distractions within an acceptable time frame (e.g., milliseconds).<br>
 iii.) Successful haptic or audio feedback on detecting distraction.<br>
 iv.) Robustness: Test the model's performance across diverse environmental conditions, varying lighting, and different types of distractions to ensure consistent and reliable detection.<br>
@@ -46,11 +46,11 @@ We also built CNN models on the deblurred images
 We built VGG16 and VGG19 models on both Camera 1 images alone the combined data for both cameras
 #### Transfer Learning and Image Deblurring
 To improve computational efficiency and improve performance, we used pretrained models on deblurred images 
-These models are:
-VGG16
-VGG19
-EfficientNetB0
-EfficientNetB3
+These models are<br>
+VGG16<br>
+VGG19<br>
+EfficientNetB0<br>
+EfficientNetB3<br>
 #### GoogLeNet Inception Network
 We trained both GoogLeNet Inception with both two and three inception modules on the deblurred data.
 
